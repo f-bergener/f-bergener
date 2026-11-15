@@ -21,8 +21,11 @@ Right now I'm unemployed and I'm looking for my next role. Here's what I'm worki
 - Learning Neovim, I've dabbled in Neovim in the past and I've used Vim Motions in VS Code for a while, but find myself using a hybrid of VS Code shortcuts and Vim Motions and I'd like to force myself to only use Vim Motions. Having fun customizing my [Neovim experience](https://github.com/f-bergener/neovim-config) and adding new commands to fit me and how I want to work
   - Right now just using Neovim for writing C because I really don't need to use big IDE like VS Code or Cursor for it and I don't have any pressure to go fast with this
 <br>
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/freddiebergener)
+
+Connect with me
+<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddiebergener)
+
 <!-- <br>
 <br>
 ## Expertise
