@@ -14,8 +14,8 @@
 
 I am a Software Engineer in Portland, OR
 <br>
-Right now I'm unemployed and I'm looking for my next role. Here's what I'm working on while I'm applying, networking, and interviewing for jobs
 <br>
+Right now I'm unemployed and I'm looking for my next role. Here's what I'm working on while I'm applying, networking, and interviewing for jobs
 - Free pet healthcare app for pet owners of animals with neurological conditions - Not AI prompting for this, other sometimes looking at the Google AI Summary
 - Learning C because I want to have a better understanding of what my computer is actually doing, planning on making a text editor using C for my first project, maybe that's too ambitious, but sounds like a fun idea
 - Learning Neovim, I've dabbled in Neovim in the past and I've used Vim Motions in VS Code for a while, but find myself using a hybrid of VS Code shortcuts and Vim Motions and I'd like to force myself to only use Vim Motions. Having fun customizing my [Neovim experience](https://github.com/f-bergener/neovim-config) and adding new commands to fit me and how I want to work
